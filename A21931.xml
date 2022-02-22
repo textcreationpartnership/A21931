@@ -1,0 +1,164 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An acte for punishment of rogues, vagabonds and sturdie beggers</title>
+            <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1598</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A21931</idno>
+            <idno type="STC">STC 8261.7</idno>
+            <idno type="STC">ESTC S1239</idno>
+            <idno type="EEBO-CITATION">21815313</idno>
+            <idno type="OCLC">ocm 21815313</idno>
+            <idno type="VID">24906</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A21931)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 24906)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1728:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An acte for punishment of rogues, vagabonds and sturdie beggers</title>
+                  <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+               </titleStmt>
+               <extent>[3] p.   </extent>
+               <publicationStmt>
+                  <publisher>Deputies of C. Barker,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1598?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>"Anno XXXIX. Reginæ Elizabethæ."</note>
+                  <note>Publisher and date of publication suggested by STC (2nd ed.).</note>
+                  <note>Reproduction of original in the University of London. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Rogues and vagabonds --  England.</term>
+               <term>Great Britain --  History --  Elizabeth, 1558-1603.</term>
+               <term>Great Britain --  Politics and government --  1558-1603.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-02</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2012-02</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:24906:1"/>
+            <head>
+               <g ref="char:leaf">❧</g> An Acte for puniſhment of Rogues Vagabonds, and ſturdie Beggers. Anno xxxix. Reginae Elizabethae.</head>
+            <p>
+               <seg rend="decorInit">F</seg>Or the ſuppreſſing of Rogues, Vagabonds, and ſturdy beggers, Be it enacted by the authoritie of this preſent Parliament, that from and after the feaſt of Eaſter next comming, all Statutes heretofore made for the puniſhment of Rogues, Vagabonds or ſturdy beggers, or for the erection or maintenance of houſes of cor<g ref="char:EOLhyphen"/>rection or touching the ſame, ſhall for ſo much as concerneth the ſame, be vtterly repealed: And that from and after the ſaid feaſt of Eaſter, from time to time it ſhall and may be lawfull to and for the Iuſtices of Peace of any County or Cittie in this Realme or the Dominions of Wales, aſſembled at any quarter Seſſions of the Peace within the ſame County, Citty, Borough, or towne corporate, or the more part of them, to ſet downe order to erect, and to cauſe to bee erected one or more houſes of correction within their ſeuerall Counties or Cities: For the do<g ref="char:EOLhyphen"/>ing and performing whereof, and for the prouiding of ſtockes of money, and all o<g ref="char:EOLhyphen"/>ther things neceſſary for the ſame, and the raiſing and gouerning of the ſame, and for correction and puniſhment of offenders thither to be committed, ſuch orders as the ſame Iuſtices or the more part of them ſhall from time to time take, reforme, or ſet downe in any their ſaid quarter Seſſions in that behalfe, ſhall be of force, and be duely performed and put in execution.</p>
+            <p>And be it alſo further enacted by the authority aforeſaid, That all perſons calling themſelues Schollers go<g ref="char:EOLhyphen"/>ing about begging, all Seafaring men pretending loſſes of their ſhips or goods on the Sea, going about the coun<g ref="char:EOLhyphen"/>trey begging, All idle perſons going about in any countrey either begging or vſing any ſubtile craft, or vnlawfull games and playes, or fayning themſelues to haue knowledge in Phyſiognomie, Palmeſtry, or other like crafty ſci<g ref="char:EOLhyphen"/>ence, or pretending that they can tell deſtinies, fortunes, or ſuch other like fantaſticall imaginations: All perſons that be, or vtter themſelues to be Proctors, procurers, patent gatherers, or Collectors for gaoles, priſons, or Hoſpitals. All Fencers, Beare wards, common players of Interludes, and Minſtrels, wandering abroad (other then players of Interludes belonging to any Baron of this Realme, or any other honourable parſonage of greater degree, to bee authorized to play vnder the hand and Seale of Armes of ſuch Baron or perſonage) All Iuglers, Tinkers, Ped<g ref="char:EOLhyphen"/>lers, and petie Chapmen wandering abroad All wandering perſons and common Labourers, being perſons able in body, vſing loytering, and refuſing to worke for ſuch reaſonable wages, as is taxed or commonly giuen in ſuch parts, where ſuch perſons doe, or ſhall happen to dwell or abide, not hauing liuing otherwiſe to maintaine them<g ref="char:EOLhyphen"/>ſelues, All perſons deliuered out of gaoles that begge for their fees, or otherwiſe do trauaile begging: All ſuch per<g ref="char:EOLhyphen"/>ſons as ſhall wander abroad begging, pretending loſſes by fire, or otherwiſe: And all ſuch perſons not being felons, wandering and pretending themſelues to be Egyptians, or wandering in the habite, forme, or attire of counterfeite Egyptians, ſhall be taken, adiudged and deemed Rogues, Vagabonds, and ſturdy beggers, and ſhall ſuſteine ſuch paine and puniſhments, as by this Acte is in that behalfe appointed.</p>
+            <p>And bee it enacted by the authority aforeſaid, that euery perſon which is by this preſent Acte declared to bee a Rogue, Vagabond, or ſturdy begger, which ſhall bee at any time after the ſaid feaſt of Eaſter next comming, taken begging, vagrant, wandering or miſordering themſelues in any part of this Realme, or the Dominion of Wales, ſhall vpon their apprehenſion by the appointment of any Iuſtice of the Peace, Conſtable, Headborough or Ty<g ref="char:EOLhyphen"/>thingman of the ſame County, Hundred, Pariſh, or Tything, where ſuch perſon ſhall be taken, the Tythingman or Headborough, being aſſiſted therein with the aduiſe of the Miniſter, and one other of that Pariſh, bee ſtripped na<g ref="char:EOLhyphen"/>ked from the middle vpwards, and ſhall be openly whipped vntill his or her body be bloudy: and ſhall be forthwith ſent from Pariſh to Pariſh, by the Officers of euery the ſame, the next ſtraight way to the Pariſh where hee was borne, if the ſame may be knowne by the parties confeſſion or otherwiſe. And if the ſame be not knowne, then to the Pariſh where he or ſhe laſt dwelt before the ſame puniſhment by the ſpace of one whole yere, there to put him, or her ſelfe to labour as a true Subiect ought to doe: Or not being knowne where he or ſhe was borne or laſt dwelt, then to the Pariſh through which hee or ſhee laſt paſſed without puniſhment. After which whipping the ſame perſon ſhall haue a teſtimoniall ſubſcribed with the hand, and Sealed with the Seale of the ſame Iuſtice of the Peace, Conſtable, Headborough or Tythingman, and of the Miniſter of the ſame Pariſh, or of any two of them, teſtifying that the ſame perſon hath beene puniſhed according to this Acte, and mentioning the day &amp; place of his or her pu<g ref="char:EOLhyphen"/>niſhment, and the place whereunto ſuch perſon is limitted to goe, and by what time the ſaid perſon is limited to paſſe thither at his perill. And if the ſaid perſon through his or her default do not accompliſh the order appointed by the ſaid teſtimoniall, then to be eftſoones taken and whipped, and ſo as often as any default ſhal be found in him or her, contrary to the forme of this Statute, in euery place to be whipped, till ſuch perſon be repayred to the place li<g ref="char:EOLhyphen"/>mited: The ſubſtance of which teſtimoniall ſhall be regiſtred by the Miniſter of that pariſh, in a Booke to be proui<g ref="char:EOLhyphen"/>ded for that purpoſe, vpon paine to forfeit fiue ſhillings for euery default thereof, and the party ſo whipped, and not knowne where he or ſhe was borne, or laſt dwelt by the ſpace of a yeare, ſhall by the Officers of the ſaide Village where he or ſhe ſo laſt paſt thorow without puniſhment, be conueyed to the houſe of Correction of the limit wherein the ſaid Village ſtandeth, or to the common gaole of that County or place, there to remaine and bee imployed in worke, vntill he or ſhe ſhall be placed in ſome ſeruice, and ſo to continue by the ſpace of one yeare, or not being able of body, vntill he or ſhe ſhall be placed to remaine in ſome Almeſhouſe in the ſame County or place.</p>
+            <p>Prouided alwayes, and be it enacted, if any of the ſaid Rogues ſhall appeare to bee dangerous to the inferior ſort of people where they ſhall be taken, or otherwiſe be ſuch as will not be reformed of their rogiſh kind of life by the former prouiſions of this Acte, That in euery ſuch caſe it ſhall and may bee lawfull to the ſaid Iuſtices of the limit where any ſuch Rogue ſhall be taken, or any two of them, whereof one to be of the <hi>Quorum,</hi> to commit that Rogue to the houſe of Correction, or otherwiſe to the gaole of the County, there to remaine vntill their next quarter Seſſi<g ref="char:EOLhyphen"/>ons to be holden in that County, and then ſuch of the ſame Rogues ſo committed, as by the Iuſtices of the Peace then and there preſent, or the moſt part of them, ſhall be thought fit not to bee deliuered, ſhall and may lawfully by the ſame Iuſtices or the moſt part of them, be baniſhed out of this Realme, and all other the Dominions thereof, and
+<pb facs="tcp:24906:2"/>at the charges of that Countrey, ſhall be conueyed vnto ſuch parts beyond the Seas as ſhall be at any time hereaf<g ref="char:EOLhyphen"/>ter for that purpoſe aſſigned by the priuy Councell vnto her Maieſtie, her heires or ſucceſſors, or by any ſixe or more of them, whereof the L. Chancellor, or L. Keeper of the great Seale, or the L. Treaſurer for the time being to bee one, Or otherwiſe be iudged perpetually to the Galleis of this Realme, as by the ſame Iuſtices or the moſt part of them it ſhall be thought fit and expedient. And if any ſuch Rogue ſo baniſhed as aforeſaid ſhall returne againe in<g ref="char:EOLhyphen"/>to any part of this Realme or dominion of Wales, without lawfull licence or warrant ſo to doe, that in euery ſuch caſe, ſuch offence ſhall be felony, and the partie offending therein ſuffer death as in caſe of f<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lony: The ſaid felony to be heard and determined in that County of this Realme or Wales, in which the offendor ſhall be apprehended.</p>
+            <p>And be it alſo enacted by the authority aforeſaid, that if any towne, pariſh, or village, the Conſtable, Headborough or Tithingman be negligent and do not his or their beſt endeuours for the apprehenſion of ſuch Vagabond, Rogue, or ſturdy Begger, which there ſhall be found contrary to the forme of this preſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nt Acte, and to cauſe euery of them to be puniſhed and conueyed according to the true meaning of this preſent Acte, that then the ſaid Conſtable, Head<g ref="char:EOLhyphen"/>borough, or Tithingman, in whome ſuch default ſhall be, ſhall loſe and forfeit for euery ſuch default x s And alſo if a<g ref="char:EOLhyphen"/>ny perſon or perſons doe in any wi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e diſturbe or let the execution of this law or any part thereof, concerning the pu<g ref="char:EOLhyphen"/>niſhment or conueying of Rogues, Vagabonds, ſturdy Beggers, or the reliefe or ſetling of poore impotent perſons in any maner of wiſe or make reſcuſſe againſt any officer or perſon authorized by this preſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nt Acte for the due exe<g ref="char:EOLhyphen"/>cution of any the pr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>miſſes, the ſame perſon ſo offending, ſhal forfeit and loſe for euery ſuch offence the ſumme of v. li. and ſhall be bound to the good behauiour.</p>
+            <p>And be it alſo further enacted by the authoritie aforeſaid, that no perſon or perſons hauing charge in any voyage, in paſſing from the Realms of Ireland or Scotland, or from the Iſle of Man into this Realm of England, do wit<g ref="char:EOLhyphen"/>tingly or willingly bring or conuey, or ſuff<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r to be brought or conueyed in any veſſell or Boate, from and out of the ſaid Realme of Ireland, Scotland, or Iſle of Man, into the Realme of England or Wales, or any part thereof, any Vagabond, Rogue, or Begger, or any ſuch as ſhall be forced or very like to liue by begging within the Realme of England or Wales, being borne in the ſame Realmes or Iſland, on paine of euery ſuch perſon ſo offending, to for<g ref="char:EOLhyphen"/>feit and loſe for euery ſuch Vagabond, Rogue, Begger, or other perſon like to liue by begging xx. s. to the vſe of the poore of the ſaid pariſh in which they were ſet on land. And if any ſuch Manniſk, Scottiſh, or Iriſh Rogue, Vaga<g ref="char:EOLhyphen"/>bond, or Begger, be already, or ſhall at any time hereafter be ſet on land, or ſhall come into any part of England or Wales, the ſame after he or ſhe ſhall be puniſhed as aforeſaid, ſhall be conueyed to the next port or pariſh in or neere which they were landed or firſt came, in ſuch ſort as Rogues are appointed to be by this preſent Acte, and from thence to be tranſported at the common charge of the Countrey where they were ſet on land, into thoſe parts from whence they came or were brought. And that euery Conſtable, Headborough and Tithingman neglecting the due performance thereof, ſhall forfeit for euery ſuch offence x. s.</p>
+            <p>Be it further enacted by the authoritie aforeſaid, that no diſeaſed or impotent poore perſon ſhall at any time reſort or repaire from their dwelling places to the Cittie of Bath, or towne of Buxton, or either of them to the Bathes there for the eaſe of their griefs, vnleſſe ſuch perſon do ſo, beare to begge, and be licenſed to paſſe thither by two Iu<g ref="char:EOLhyphen"/>ſtices of the Peace, of the County where ſuch perſon doth or ſhall then dwell or remaine, and prouided for to trauail with ſuch reliefe, for and towards his or her maintenance, as ſhall be neceſſary for the ſame perſon, for the time of ſuch his or her trauell, and abode at the Citie of Bath and towne of Buxton, or either of them, and returne thence, and ſhall returne home againe as ſhall be limitted by the ſaid licence, vpon paine to be reputed, puniſhed, and vſed as Rogues, Vagabonds, and ſturdy Beggers declared by this preſent Acte. And that the inhabitants of the ſame Citie of Bath, and town of Buxton, ſhall not in any wiſe be charged by this Acte, with the finding or reliefe of any ſuch poore people.</p>
+            <p>Prouided alwayes that the Iuſtices of Peace within any County of this Realme or Wales, ſhall not intromit or enter into any Citty, borough, or townes corporate, where be any Iuſtice or Iuſtices of the Peace for any ſuch Cittie, borough or towne corporate for the execution of any branch, article or ſentence of this Acte, for or concerning any offence, matter or cauſe growing or ariſing within the Precincts, liberties, or iuriſdictions of ſuch Citie, bo<g ref="char:EOLhyphen"/>rough, or townes corporate, But that it may and ſhall be lawfull to the Iuſtice and Iuſtices of the Peace, May<g ref="char:EOLhyphen"/>ors, Bayliffes, and other head Officers of thoſe Citties, Boroughes, and Townes corporate, where there be ſuch Iuſtices of the Peace to proceed to the execution of this Act, within the Precinct and compas of their liberties in ſuch manner and forme as the Iuſtices of Peace, in any County may or ought to doe within the ſame County, by vertue of this Act, Any thing in this Acte to the contrary thereof notwithſtanding.</p>
+            <p>Prouided alwayes that this Act, or any thing therein contained, ſhall not extend, to the poore people for the time being, in the Hoſpitall, called <hi>S. Thomas</hi> Hoſpitall, otherwiſe called the Kinges Hoſpitall, in the Borough of Southwarke, neare adioyning to the Citie of London, but that the Mayor, comminaltie and Cittizens of the ſaid Cittie of London for the time being, ſhall and may haue the rule, order and gouernment of the ſaid Hoſpitall, and of the poore people therein for the time being, any thing in this Acte to the contrary notwithſtanding.</p>
+            <p>Prouided alwayes that this Acte, or any thing therein contayned, or any authority thereby giuen, ſhall not in any wiſe extend to diſhenherite, preiudice or hinder <hi>Iohn Dutton</hi> of Dutton, in the County of Cheſter Eſquier, his heires or aſſignes, for, touching or concerning any libertie, preheminence, authority, iuriſdiction or inheritance, which the ſaid <hi>Iohn Dutton</hi> now lawfully vſeth, or hath, or lawfully may or ought to vſe within the County Pala<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>tine of Cheſter, and the County of the Cittie of Cheſter, or eyther of them, by reaſon of any auncient Charters of a<g ref="char:EOLhyphen"/>ny Kinges of this land, or by reaſon of any preſcription, vſage or title whatſoeuer.</p>
+            <p>And be it further enacted by the authority aforeſaid, that all fines and forfeytures appointed, or to grow by this preſent Act, (except ſuch as are otherwiſe limited and apointed by this preſent Act) ſhal wholy go and be imployed to the vſe of the reparations, and maintenance of the ſaid houſes of Correction, and ſtock and ſtore therof, or reliefe of the poore, where the offence ſhall be committed at the diſcretion of the Iuſtices of the Peace of the ſame limit, cittie, borough or towne corporate: And that all fines and forfeytures appointed or to grow by conuiction of any perſon according to this preſent Act, ſhall by warrant vnder the handes and ſeales of any two or more of the Iu<g ref="char:EOLhyphen"/>ſtices of the Peace of the ſame County, citty, borough or town corporate, be leuied by diſtreſſe, and ſale of the goods and chattels of the offendor, which ſale ſhall be good in the Law againſt ſuch offendor, And that if any of the ſaide offences ſhall be confeſſed by the offendor, or that the ſame ſhall be proued by two ſufficient and lawfull witneſſes,
+<pb facs="tcp:24906:3"/>before ſuch two or more Iuſtices of the Peace, That then euery ſuch perſon ſhal forthwith ſtand and b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e in the Law conuicted thereof.</p>
+            <p>And be it alſo further enacted by the authoritie aforeſaid, that any two or more Iuſtices of the Peace within all the ſaid ſeuerall Shires, citties, boroughes or townes corporate, whereof one to be of the <hi>Quorum,</hi> ſhall haue full power by authority of this preſent Acte, to heare and determine all cauſes that ſhall grow or come in queſtion, by reaſon of this Acte.</p>
+            <p>And be it alſo further enacted by the authority aforeſaid, that the Lord Chancellor or Keeper of the great ſeale of England for the time being, ſhall and may at all times hereafter by vertue of this preſent Act, without further warrant make and direct Commiſſion or Commiſſions vnder the great ſeale of England, to any perſon or perſons giuing them or ſome of them thereby authority, aſwell by the oathes of good and lawfull men, as of witneſſes, or examination of parties, or by any other lawfull wayes or meanes whatſoeuer, to enquire what ſummes of mo<g ref="char:EOLhyphen"/>ney or other thinges, haue beene or ſhall be collected or gathered for, or towardes the erection of any houſes of cor<g ref="char:EOLhyphen"/>rection, or any ſtockes, or other thinges to ſet poore on worke, or for the maintenance thereof at any time, after the ſe<g ref="char:EOLhyphen"/>uenteenth day of Nouember, in the eighteenth yeare of the raigne of the Queenes moſt excellent Maieſty, and by whome the ſame were or ſhalbe collected or gathered, and to whoſe handes commen, and to what vſe, and by whoſe direction the ſame was or ſhalbe imployed. And to call all and euery ſuch perſon and perſons, and their ſureties, and euery of their executors or adminiſtrators to an account: And to compell them and euery of them by attachment of their goods or bodies to appeare before them for the ſame, and to heare and determine the ſame, and to leuie ſuch money and thinges as they ſhall find not to haue beene duely imployed vpon the ſaide houſes of correc<g ref="char:EOLhyphen"/>tion, or ſtocks, or vpon other like vſes, hauing in ſuch other like vſes reſpect of things paſt by the ſaid Commiſſioners to be allowed of, eyther by diſtreſſe, and ſale of the goodes and chattels of ſuch perſons, as they ſhall thinke fit to be chargeable or aunſwerable for the ſame, or by impriſonment of their bodies at their diſcretion: And that the ſaid Commiſſioners ſhall haue full power and authority to execute the ſame Commiſſion, according to the tenor and purport thereof: And that all their proceedinges, doinges, iudgements, and executions by force and authority thereof, ſhall be and remaine good and auaileable in the Law: which ſaid money ſo leuied by the ſaid Commiſſio<g ref="char:EOLhyphen"/>ners, ſhall be deliuered and imployed for the erecting or maintenance of the ſame.</p>
+            <p>Prouided alwayes neuertheleſſe that euery Sea-faring man ſuffering ſhipwracke, not hauing wherewith to relieue himſelfe in his trauels homewardes, but hauing a teſtimoniall vnder the hand of ſome one Iuſtice of the Peace, of, or neare the place where he landed, ſetting downe therein the place and time where and when he landed, and the place of the parties, dwelling, or birth, vnto which he is to paſſe, and a conuenient time therein to be limited for his paſſage, ſhall and may without incurring the danger and penaltie of this Acte in the vſuall wayes, directly to the place, vnto which he is directed to paſſe, and within the time in ſuch his teſtimoniall limited for his paſſage, aſke and receiue ſuch reliefe as ſhall be neceſſarie, in, and for his paſſage.</p>
+            <p>Prouided alſo, that this ſtatute, nor any thing therein contained, ſhall extend to any children vnder the age of ſeuen yeares, nor to any ſuch Glaſſemen, as ſhall be of good behauiour, and do trauaile in, or through any Country without begging, hauing licence for their trauelling vnder the handes and ſeales of three Iuſtices of the Peace of the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> County where the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> trauell, whereof one to be of the <hi>Quorum.</hi>
+            </p>
+            <p>And be it alſo further enacted by the authority aforeſaid, that this pre<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ent Act ſhall bee proclaimed in the next quarter Seſſion or Seſſions in euerie County, and in ſuch other market Townes or places, as by the more part of the Iuſtices of the Peace in the ſaid Seſſions ſhall be agreede and appointed. This Acte to endure to the end of the firſt Seſſion of the next Parliament.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
